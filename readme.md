@@ -17,19 +17,6 @@ To begin, we need to `cd` into the directory where we want to work. Navigate to 
 mkdir sass-practice
 cd /sass-practice
 
-```
-
-There are many different ways to install Sass. In this cohort we've already learned a bit about Twitter's Bootstrap framework (Yes, Twitter owns Bootstrap...) and we haven't looked at Ruby yet, so we're going to use a tool called `bower` to install. ([Bower](http://bower.io/) is a package manager that will help us install Sass with Bootstrap. We'll be using bower more in the coming weeks.)
-
-Bootstrap maintains an open-source GitHub repository with instructions to create a `bootstrap-sass` starter project in a few different development environments. You can read about it [on Bootstrap's website](http://getbootstrap.com/css/#sass), or [visit the repo](https://github.com/twbs/bootstrap-sass) if you want, but all we have to do to get the code today is run this from the Terminal:
-
-
-``` bash
-bower install bootstrap-sass
-
-```
-
-This will create a `bower_components` directory with a bunch of contents in it, including jquery and bootstrap.
 
 ## STEP 2. Set Up your Starter Code - Catch Up (10 min)
 
